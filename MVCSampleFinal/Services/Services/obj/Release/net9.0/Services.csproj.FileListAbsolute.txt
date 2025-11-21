@@ -1,0 +1,17 @@
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Services\Services\bin\Release\net9.0\Services.deps.json
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Services\Services\bin\Release\net9.0\Services.dll
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Services\Services\bin\Release\net9.0\Services.pdb
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Services\Services\bin\Release\net9.0\Domain.dll
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Services\Services\bin\Release\net9.0\Infrastructure.dll
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Services\Services\bin\Release\net9.0\Infrastructure.pdb
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Services\Services\bin\Release\net9.0\Domain.pdb
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Services\Services\obj\Release\net9.0\Services.csproj.AssemblyReference.cache
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Services\Services\obj\Release\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Services\Services\obj\Release\net9.0\Services.AssemblyInfoInputs.cache
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Services\Services\obj\Release\net9.0\Services.AssemblyInfo.cs
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Services\Services\obj\Release\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Services\Services\obj\Release\net9.0\Services.csproj.Up2Date
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Services\Services\obj\Release\net9.0\Services.dll
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Services\Services\obj\Release\net9.0\refint\Services.dll
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Services\Services\obj\Release\net9.0\Services.pdb
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Services\Services\obj\Release\net9.0\ref\Services.dll

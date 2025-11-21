@@ -1,0 +1,43 @@
+﻿@model IList<Services.Models.EquipoModels.EquipoModel>
+
+@{
+    ViewData["Title"] = "Equipos";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h2>Listado de Equipos</h2>
+    <a asp-action="AddEquipo" asp-controller="Equipo" class="btn btn-primary">Agregar Equipo</a>
+</div>
+
+@if (Model == null || Model.Count == 0)
+{
+    <div class="alert alert-info">No hay equipos registrados aún.</div>
+}
+else
+{
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th>Nombre</th>
+                <th>Tipo</th>
+                <th>Estado</th>
+                <th>Sala Asignada</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var equipo in Model)
+            {
+                <tr>
+                    <td>@equipo.Serial</td>
+                    <td>@equipo.Estado</td>
+                    <td>@equipo.SalaNombre</td> <!-- si tu modelo lo incluye -->
+                    <td>
+                        <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@equipo.Id">Editar</a>
+                        <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@equipo.Id">Eliminar</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

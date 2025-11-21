@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Inicio";
+}
+
+<div class="text-center mt-4">
+    <h1 class="display-5 mb-4">Sistema de Gestión de Salas y Equipos</h1>
+    <p class="lead">Seleccione una opción para comenzar</p>
+</div>
+
+<div class="row mt-4">
+
+    <div class="col-md-4 mb-3">
+        <a asp-controller="Sala" asp-action="Index" class="btn btn-primary w-100 py-3">
+            Salas
+        </a>
+    </div>
+
+    <div class="col-md-4 mb-3">
+        <a asp-controller="Equipo" asp-action="Index" class="btn btn-primary w-100 py-3">
+            Equipos
+        </a>
+    </div>
+
+    <div class="col-md-4 mb-3">
+        <a asp-controller="Usuario" asp-action="Index" class="btn btn-primary w-100 py-3">
+            Usuarios
+        </a>
+    </div>
+
+    <div class="col-md-4 mb-3">
+        <a asp-controller="Prestamo" asp-action="Index" class="btn btn-primary w-100 py-3">
+            Préstamos
+        </a>
+    </div>
+
+    <div class="col-md-4 mb-3">
+        <a asp-controller="Reporte" asp-action="Index" class="btn btn-primary w-100 py-3">
+            Reportes
+        </a>
+    </div>
+
+</div>

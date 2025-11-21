@@ -1,0 +1,17 @@
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Infrastructure\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Infrastructure\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Infrastructure\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Infrastructure\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Infrastructure\Infrastructure\bin\Debug\net9.0\Domain.dll
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Infrastructure\Infrastructure\bin\Debug\net9.0\Domain.pdb
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Infrastructure\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Infrastructure\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Infrastructure\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Infrastructure\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Infrastructure\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Infrastructure\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Infrastructure\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Infrastructure\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Infrastructure\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Infrastructure\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+D:\Descargas\MVCSampleFinal 44\MVCSampleFinal\Infrastructure\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll

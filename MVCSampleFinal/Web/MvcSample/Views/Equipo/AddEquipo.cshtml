@@ -1,0 +1,42 @@
+﻿@model Services.Models.EquipoModels.AddEquipoModel
+
+@{
+    ViewData["Title"] = "Agregar Equipo";
+}
+
+<h2>Agregar Equipo</h2>
+
+<form asp-action="AddEquipo" method="post" class="mt-4">
+
+    <div class="mb-3">
+        <label asp-for="Serial" class="form-label"></label>
+        <input asp-for="Serial" class="form-control" />
+        <span asp-validation-for="Serial" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Estado" class="form-label"></label>
+        <select asp-for="Estado" class="form-select"
+                asp-items="Html.GetEnumSelectList<Domain.Enums.EquipmentStatus>()"></select>
+        <span asp-validation-for="Estado" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="SalaId" class="form-label"></label>
+        <select asp-for="SalaId" class="form-select" asp-items="ViewBag.Salas"></select>
+        <span asp-validation-for="SalaId" class="text-danger"></span>
+    </div>
+
+    @if (ViewBag.Error != null)
+    {
+        <div class="alert alert-danger">@ViewBag.Error</div>
+    }
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
